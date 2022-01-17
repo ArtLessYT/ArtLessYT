@@ -34,5 +34,5 @@
 [website]: https://webtricks-master.ru/
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
-[instagram]: https://www.instagram.com/corvaxv/
+[instagram]: https://www.instagram.com/artl3ss_yt/
 [vk]: https://vk.com/vladislavkalachov
