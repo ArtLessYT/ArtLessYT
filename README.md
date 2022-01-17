@@ -11,6 +11,7 @@
 
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />][vk]
+[<img align="left" alt="VladKalachev | VK" width="22px" src="https://pngimg.com/uploads/twitter/twitter_PNG3.png" />][twitter]
 
 <br />
 
@@ -35,4 +36,5 @@
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
 [linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
 [instagram]: https://www.instagram.com/artl3ss_yt/
+[twitter]: https://twitter.com/artl3ss_yt
 [vk]: https://vk.com/artlesstop
