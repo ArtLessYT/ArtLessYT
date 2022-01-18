@@ -33,7 +33,7 @@
         </a>
         <!-- CSS  -->
         <a href="https://github.com/ArtLessYT><img alt="CSS"
-                        src="https://img.shields.io/badge/-CSS-1572B6?style="flat-square&logo=CSS3&logoColor=white">
+                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         </a>
         <!-- C++ -->
         <a href="https://github.com/ArtLessYT" target="_blank"><img alt="C++"
