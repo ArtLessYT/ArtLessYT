@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Artem
 
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
-
+<br />
 ## I'm a Beginner Developer, and Student
 - 💪 I like writing code
 - 💂‍♂️ I like studying English
@@ -32,9 +32,8 @@
 
 
 
-[website]: https://webtricks-master.ru/
+
 [youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
-[linkedin]: https://www.linkedin.com/in/vlad-kalachev-ab87b312a/
 [instagram]: https://www.instagram.com/artl3ss_yt/
 [twitter]: https://twitter.com/artl3ss_yt
 [vk]: https://vk.com/artlesstop
