@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
 
-
 ### Hi there 👋, I'm Artem
-
 
 ## I'm a Beginner Developer, and Student
 - 💪 I like writing code
