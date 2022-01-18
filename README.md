@@ -18,7 +18,7 @@
         <samp>
                 「 I Code what I Design 」
                 <br>
-                「 I am a front-end web developer and passionate ui designer from <b>Bangladesh</b> 」
+                「 I am a beginner front-end web developer and student> 」
                 <br>
                 <br>
         </samp>
