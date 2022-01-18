@@ -46,8 +46,8 @@
 
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">About Me</a></b>
+        <samp>&gt; 
+                <b><a target="_blank" >About Me</a></b>
         </samp>
 </h3>
 
