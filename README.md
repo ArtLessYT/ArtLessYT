@@ -32,7 +32,7 @@
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         </a>
         <!-- CSS  -->
-        <a href="https://github.com/ArtLessYT><img alt="CSS"
+        <a href="https://github.com/ArtLessYT"><img alt="CSS"
                         src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         </a>
         <!-- C++ -->
