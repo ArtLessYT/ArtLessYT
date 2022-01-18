@@ -63,9 +63,9 @@
         </samp>
 </h3>
 
-[<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />][vk]
-[<img align="left" alt="VladKalachev | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/2522px-Twitter_bird_logo_2012.svg.png" />][twitter]
+[<img align="center" alt="VladKalachev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
+[<img align="center" alt="VladKalachev | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />][vk]
+[<img align="center" alt="VladKalachev | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/ru/thumb/9/9f/Twitter_bird_logo_2012.svg/2522px-Twitter_bird_logo_2012.svg.png" />][twitter]
 
 <br />
 
