@@ -57,7 +57,11 @@
 
 
 
-### Connect with me:
+<h3 align="center">
+        <samp>&gt; 
+                <b>Contact</b>
+        </samp>
+</h3>
 
 [<img align="left" alt="VladKalachev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
 [<img align="left" alt="VladKalachev | VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />][vk]
