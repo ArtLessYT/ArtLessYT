@@ -52,7 +52,7 @@
 </h3>
 
 - <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> I like writing code
-- 💂‍♂️ I like studying English
+- <img src="https://media3.giphy.com/media/VDNDNheLuIOfX76gxi/200w.gif" width="20" />♂️ I like studying English
 - 🥅 I am constantly learning new things
 
 
