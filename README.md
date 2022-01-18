@@ -45,7 +45,12 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
 
-### I'm a Beginner Developer, and Student
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="">About Me</a></b>
+        </samp>
+</h3>
+
 - 💪 I like writing code
 - 💂‍♂️ I like studying English
 - 🥅 I am constantly learning new things
