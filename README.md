@@ -42,11 +42,11 @@
 
 
 
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
+
 
 
 <h3 align="center">
-        <samp>&gt; 
+        <samp><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />&gt; 
                 <b>About Me</b>
         </samp>
 </h3>
