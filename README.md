@@ -80,7 +80,7 @@
         <a href="https://github.com/ArtLessYT" target="_blank"><img alt="C++"
                         src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
 
-                </p>
+ </p>
 
 
 [<img align="center" alt="VladKalachev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />][instagram]
