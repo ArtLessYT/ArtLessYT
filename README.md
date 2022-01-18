@@ -1,6 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
 
-### Hi there 👋, I'm Artem
+<img align="left" src="https://orhun.dev/img/crow.png">
+
+### Hey!
+
+I'm someone who is passionate about **HTML/CSS/C++/C#** and likes to **write code**.
 
 ## I'm a Beginner Developer, and Student
 - 💪 I like writing code
