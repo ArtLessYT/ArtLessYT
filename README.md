@@ -63,22 +63,8 @@
         </samp>
 </h3>
 <p align="center">
-       <!-- Programming Languages -->
-        <!-- Code logo -->
-        <a href="https://github.com/ArtLessYT" target="_blank"><img alt="Code"
-                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
-        </a>
-        <!-- HTML -->
-        <a href="https://github.com/ArtLessYT" target="_blank"><img alt="HTML"
-                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-        </a>
-        <!-- CSS  -->
-        <a href="https://github.com/ArtLessYT"><img alt="CSS"
-                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
-        </a>
-        <!-- C++ -->
-        <a href="https://github.com/ArtLessYT" target="_blank"><img alt="C++"
-                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
+          <a target="_blank"href="https://twitter.com/ileriayooo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
  </p>
 
