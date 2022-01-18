@@ -46,12 +46,12 @@
 
 
 <h3 align="center">
-        <samp><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />&gt; 
+        <samp>&gt; 
                 <b>About Me</b>
         </samp>
 </h3>
 
-- 💪 I like writing code
+- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> I like writing code
 - 💂‍♂️ I like studying English
 - 🥅 I am constantly learning new things
 
