@@ -53,7 +53,7 @@
 
 - <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20" /> I like writing code
 - <img src="https://i.pinimg.com/originals/09/a9/ec/09a9ec626d8858a76f083105471e97c0.gif" width="30" /> I like studying English
-- <img src="https://i.pinimg.com/originals/91/9e/46/919e4607a21f3db810c81b11a5730955.gif" width="30" /> I am constantly learning new things
+- <img src="https://media1.giphy.com/media/SsCLe5ozI3C3wRHL9r/giphy.gif" width="30" /> I am constantly learning new things
 
 
 
