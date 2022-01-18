@@ -1,11 +1,4 @@
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
-<img align="left" src="https://orhun.dev/img/crow.png">
-
-### Hey!
-
-I'm someone who is passionate about **HTML/CSS/C++/C#** and likes to **write code**.
-
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
 
 
 ## I'm a Beginner Developer, and Student
