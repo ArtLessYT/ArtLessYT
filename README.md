@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Artem
 
 ![](https://komarev.com/ghpvc/?username=VladKalachev)
-<br />
+
 ## I'm a Beginner Developer, and Student
 - 💪 I like writing code
 - 💂‍♂️ I like studying English
