@@ -25,7 +25,7 @@
         <!-- Programming Languages -->
         <!-- Code logo -->
         <a href="https://github.com/ArtLessYT" target="_blank"><img alt="Code"
-                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=python&logoColor=white">
+                        src="https://img.shields.io/badge/-code-1572b6?style=flat-square&logo=python&logoColor=white">
         </a>
         <!-- HTML -->
         <a href="https://github.com/ArtLessYT" target="_blank"><img alt="HTML"
