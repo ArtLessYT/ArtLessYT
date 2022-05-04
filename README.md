@@ -54,23 +54,3 @@
 
 
 
-
-<h3 align="center">
-        <samp>&gt; 
-                <b>Contact</b>
-        </samp>
-</h3>
-<p align="center">
-          <a target="_blank"href="https://twitter.com/artl3ss_yt"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:agressorios@gmail.com?subject=Hello%20ArtLess,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
- </p>
-
-
-
-
-
-
-[youtube]: https://www.youtube.com/channel/UCkvd2R7fmbs1watlJ6wur_w
-[instagram]: https://www.instagram.com/artl3ss_yt/
-[twitter]: https://twitter.com/artl3ss_yt
-[vk]: https://vk.com/artlesstop
