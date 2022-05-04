@@ -48,7 +48,7 @@
 </h3>
 
 
-<span align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=radical)</span>
+<h3 align="center">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=radical)</h3>
 
 
 <h3 align="center">
