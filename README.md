@@ -25,11 +25,11 @@
         <!-- Programming Languages -->
         <!-- Code logo -->
         <a href="https://github.com/ArtLessYT" target="_blank"><img alt="Code"
-                        src="https://img.shields.io/badge/-code-1572b6?style=flat-square&logo=python&logoColor=white">
+                        src="https://img.shields.io/badge/-Python3-1572b6?style=flat-square&logo=python&logoColor=white">
         </a>
         <!-- HTML -->
         <a href="https://github.com/ArtLessYT" target="_blank"><img alt="HTML"
-                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+                        src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         </a>
         <!-- CSS  -->
         <a href="https://github.com/ArtLessYT"><img alt="CSS"
