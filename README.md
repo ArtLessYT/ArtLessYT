@@ -41,6 +41,11 @@
 </p>
 
 
+<h3 align="center">
+        <samp>&gt; 
+                <b>Stats</b>
+        </samp>
+</h3>
 
 
 <h3 align="center">
