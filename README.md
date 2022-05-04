@@ -4,7 +4,7 @@
 
 <!-- Profile Views Counter -->
 ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
-
+<hr>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
