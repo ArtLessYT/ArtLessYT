@@ -1,1 +1,1 @@
-<h2 align="center" style="none">ArtLess</h2>
+<h3 align="center">ArtLess</h2>
