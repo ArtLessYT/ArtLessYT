@@ -3,7 +3,7 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat&logo=github)
+![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat)
 
 <!-- Intro  -->
 <h3 align="center">
