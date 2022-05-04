@@ -5,6 +5,8 @@
 <!-- Profile Views Counter -->
 ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
 
+![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat-square)
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
