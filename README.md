@@ -51,7 +51,7 @@
         </samp>
 </h3>
 
-- <h4 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25" /> I like writing code</h3>
+- <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="25" /> I like writing code
 - <img src="https://i.pinimg.com/originals/09/a9/ec/09a9ec626d8858a76f083105471e97c0.gif" width="30" /> I like studying English
 - <img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" width="25" /> I am constantly learning new things
 
