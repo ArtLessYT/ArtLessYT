@@ -4,7 +4,7 @@
 
 <!-- Profile Views Counter -->
 ![Profile views](https://gpvc.arturio.dev/ShahriarShafin?v=3)
-<hr>
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
@@ -51,6 +51,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=dark" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLessYT&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+
 
 
