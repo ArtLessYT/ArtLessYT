@@ -51,10 +51,9 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=dark" />
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArtLessYT&repo=News-Bot&theme=dark" />
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ArtLessYT)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">
