@@ -3,7 +3,7 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat) <img src="https://www.codewars.com/users/ArtLessYT/badges/large" />
+![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -51,6 +51,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=dark" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLessYT&layout=compact&theme=dark" />
+
+<img src="https://www.codewars.com/users/ArtLessYT/badges/large" />
 
 
 
