@@ -50,9 +50,9 @@
 
 <img src="https://www.codewars.com/users/ArtLessYT/badges/large" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=dark" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLessYT&layout=compact&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLessYT&layout=compact&theme=dark" />
 
 
 
