@@ -52,7 +52,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLessYT&layout=compact&theme=dark" />
 
-<img src="https://www.codewars.com/users/ArtLessYT/badges/large" />
+<img src="https://www.codewars.com/users/ArtLessYT/badges/micro" />
 
 
 
