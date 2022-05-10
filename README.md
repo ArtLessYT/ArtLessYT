@@ -3,7 +3,7 @@
 <!-- LEAVE A STAR, IF YOU LIKE IT ! -->
 
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat)
+![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat) <img src="https://www.codewars.com/users/ArtLessYT/badges/large" />
 
 <!-- Intro  -->
 <h3 align="center">
