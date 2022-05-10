@@ -49,9 +49,9 @@
 </h3>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=dark" />
+<a href="https://github.com/ArtLessYT/"><img src="https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=dark" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLessYT&layout=compact&theme=dark" />
+<a href="https://github.com/ArtLessYT/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLessYT&layout=compact&theme=dark" /></a>
 
 
 
