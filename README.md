@@ -24,21 +24,14 @@
                 <br>
         </samp>
         <!-- Programming Languages -->
-        <!-- Code logo -->
-        <img alt="Code"
-                        src="https://img.shields.io/badge/-Python3-1572b6?style=flat&logo=python&logoColor=white">
-        </a>
+        <!-- Python -->
+        <img alt="Python-badge" src="https://img.shields.io/badge/-Python3-1572b6?style=flat&logo=python&logoColor=white">
         <!-- HTML -->
-        <a href="https://github.com/ArtLessYT" target="_blank"><img alt="HTML"
-                        src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
-        </a>
+        <img alt="HTML-badge" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
         <!-- CSS  -->
-        <a href="https://github.com/ArtLessYT"><img alt="CSS"
-                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
-        </a>
+        <img alt="CSS-badge" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
         <!-- C++ -->
-        <a href="https://github.com/ArtLessYT" target="_blank"><img alt="C++"
-                        src="https://img.shields.io/badge/-C++-9b3675?style=flat&logo=C%2B%2B&logoColor=white">
+        <img alt="C++-badge" src="https://img.shields.io/badge/-C++-9b3675?style=flat&logo=C%2B%2B&logoColor=white">
 </p>
 
 
