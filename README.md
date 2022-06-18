@@ -25,7 +25,7 @@
         </samp>
         <!-- Programming Languages -->
         <!-- Code logo -->
-        <a href="https://github.com/ArtLessYT" target="_blank"><img alt="Code"
+        <img alt="Code"
                         src="https://img.shields.io/badge/-Python3-1572b6?style=flat&logo=python&logoColor=white">
         </a>
         <!-- HTML -->
