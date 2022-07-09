@@ -1,9 +1,7 @@
-<!-- https://github.com/ShahriarShafin/ -->
-<!-- April 15, 2021 -->
-<!-- LEAVE A STAR, IF YOU LIKE IT ! -->
+
 
 <!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat) <a href="https://www.codewars.com/users/ArtLessYT/"><img src="https://www.codewars.com/users/ArtLessYT/badges/micro" /></a>
+![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat)
 
 
 <!-- Intro  -->
