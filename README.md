@@ -42,9 +42,9 @@
 </h3>
 <br>
 
-<a href="https://github.com/ArtLessYT/"><img src="https://github-readme-stats.vercel.app/api?username=ArtLessYT&show_icons=true&theme=dark" /></a>
+<a href="https://github.com/ArtLessYT/"><img src="https://github-readme-stats.vercel.app/api?username=Wond3rful&show_icons=true&theme=dark" /></a>
 
-<a href="https://github.com/ArtLessYT/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtLessYT&layout=compact&theme=dark" /></a>
+<a href="https://github.com/ArtLessYT/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wond3rful&layout=compact&theme=dark" /></a>
 
 
 
