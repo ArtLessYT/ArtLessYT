@@ -7,7 +7,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello there!, I am
-                <b><a target="_blank" href="https://github.com/Wond3rful">Wonderful</a></b>
+                <b><a target="_blank" href="https://github.com/artndev">Art</a></b>
         </samp>
 </h3>
 <br>
@@ -40,9 +40,9 @@
 </h3>
 <br>
 
-<a href="https://github.com/ArtLessYT/"><img src="https://github-readme-stats.vercel.app/api?username=Wond3rful&show_icons=true&theme=dark" /></a>
+<a href="https://github.com/artndev/"><img src="https://github-readme-stats.vercel.app/api?username=artndev&show_icons=true&theme=dark" /></a>
 
-<a href="https://github.com/ArtLessYT/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wond3rful&layout=compact&theme=dark" /></a>
+<a href="https://github.com/artndev/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artndev&layout=compact&theme=dark" /></a>
 
 
 
