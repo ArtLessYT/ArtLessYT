@@ -23,9 +23,9 @@
         </samp>
         <!-- Programming Languages -->
         <!-- Python -->
-        <img alt="Python-badge" src="https://img.shields.io/badge/-Python3-1572b6?style=flat&logo=python&logoColor=white">
+        <img alt="Python-badge" src="https://img.shields.io/badge/-Python-1572b6?style=flat&logo=python&logoColor=white">
         <!-- HTML -->
-        <img alt="HTML-badge" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
+        <img alt="HTML-badge" src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
         <!-- CSS  -->
         <img alt="CSS-badge" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
         <!-- C++ -->
