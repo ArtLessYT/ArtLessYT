@@ -17,7 +17,7 @@
         <samp>
                 「 I Code what I Design 」
                 <br>
-                「 I am a hobbyist beginner developer and student> 」
+                「 I am a hobbyist developer and student> 」
                 <br>
                 <br>
         </samp>
