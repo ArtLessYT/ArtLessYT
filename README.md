@@ -15,7 +15,7 @@
 <p align="center">
         <!-- Organisation  -->
         <samp>
-                「 I Code what I Design 」
+                「 I code what I design 」
                 <br>
                 「 I am a hobbyist developer and student 」
                 <br>
