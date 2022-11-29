@@ -7,6 +7,10 @@
 <!-- Intro  -->
 ## Introducion
 Hello there! I'm a hobbiest developer. My name is Artem.
+1. Skills
+<br> - He
+3. 
+       
 
 
 <p align="center">
