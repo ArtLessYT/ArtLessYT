@@ -11,17 +11,17 @@ Hello there! I'm a hobbyist developer so I want to introduce me :)
 - I can code with:
   - Unity
   - Roblox Studio
-  - Visual Studio / Visual Studio Code
-  - Sublime Text
+  - VS / VS Code
+  - Sublime Text 3
   - PyCharm
 
 ## 2️⃣ Hobbies
 - I enjoy:
   - Sudying and reading English books
   - Making buildings with Lego
-  - Doing boxing and programming
  
 ## 3️⃣ Contact
+- [VKontakte (@artndev)](https://vk.com/artndev)
 
      
        
