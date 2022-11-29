@@ -8,10 +8,10 @@
 ## Introducion
 Hello there! I'm a hobbiest developer. My name is Artem.
 - Skills
-   - C++ / C#
-   - HTML / CSS / Learning JavaScript
-   - LuaScript
-   - Python
+  - C++ / C#
+  - HTML / CSS / Learning JavaScript
+  - LuaScript
+  - Python
      
        
 
