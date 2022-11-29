@@ -2,7 +2,7 @@
 ![Header](https://i.postimg.cc/2jc2PPpT/header.png)
 
 ## 1️⃣ Introducion
-👋 Hello there! I'm a hobbyist developer and student. So now I want to introduce me :)
+👋 Hello there! I'm a hobbyist developer. I love coding and solving different tasks on ACMP.RU, EOLYMP.COM, CODEWARS.COM.
 - I know programming languages such as:
   - C++ / C#
   - HTML / CSS / JS (a bit)
