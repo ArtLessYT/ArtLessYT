@@ -18,8 +18,8 @@
 
  
 ## 2️⃣ Contact
-- [VKontakte (@artndev)](https://vk.com/artndev)
-- [Telegram (@artndev)](https://t.me/artndev)
+- [Chat me in VKontakte](https://vk.com/artndev)
+- [Chat me in Telegram](https://t.me/artndev)
 
 ## 3️⃣ Stats
 <img src="https://github-readme-stats.vercel.app/api?username=artndev&show_icons=true&theme=github_dark" alt="Profile stats" />
