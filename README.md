@@ -9,7 +9,7 @@
 Hello there! I'm a hobbyist developer so I want to introduce me:
 - I know programming languages such as
   - C++ / C#
-  - HTML / CSS / Learning JavaScript
+  - HTML / CSS / JS (a bit)
   - LuaScript
   - Python
 - I can code with
