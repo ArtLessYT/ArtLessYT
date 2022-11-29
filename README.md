@@ -4,9 +4,8 @@
 ## 1️⃣ Introducion
 Hello there! I'm a hobbyist developer so I want to introduce me :)
 - I know programming languages such as:
-![C++](https://img.shields.io/badge/-C++-343434?style=for-the-badge&logo=.net)
+![C++](https://img.shields.io/badge/-C++-343434?style=for-the-badge&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C++-343434?style=for-the-badge&logo=csharp)
-<br>
 ![HTML5](https://img.shields.io/badge/-C++-343434?style=for-the-badge&logo=html5)
   - HTML / CSS / JS (a bit)
   - LuaScript
