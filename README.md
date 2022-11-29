@@ -7,11 +7,17 @@
 <!-- Intro  -->
 ## Introducion
 Hello there! I'm a hobbiest developer. My name is Artem.
-- Skills
+- I know programming languages such as
   - C++ / C#
   - HTML / CSS / Learning JavaScript
   - LuaScript
   - Python
+- I can code with
+  - Unity
+  - Roblox Studio
+  - Visual Studio / Visual Studio Code
+  - Sublime Text
+  - PyCharm
      
        
 
