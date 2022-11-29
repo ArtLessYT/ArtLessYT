@@ -1,10 +1,10 @@
 
-![](https://i.postimg.cc/2jc2PPpT/header.png)
+![Header](https://i.postimg.cc/2jc2PPpT/header.png)
 
 ## 1️⃣ Introducion
-Hello there! I'm a hobbyist developer so I want to introduce me :)
+👋 Hello there! I'm a hobbyist developer so I want to introduce me :)
 - I know programming languages such as:
-  - <b>C++ / C#</b>
+  - C++ / C#
   - HTML / CSS / JS (a bit)
   - LuaScript
   - Python
