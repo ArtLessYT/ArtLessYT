@@ -25,6 +25,7 @@ Hello there! I'm a hobbyist developer so I want to introduce me :)
 
 ## 4️⃣ Stats
 ![](https://github-readme-stats.vercel.app/api?username=artndev&show_icons=true&theme=github_dark)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=artndev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
      
        
