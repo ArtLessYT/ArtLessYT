@@ -7,7 +7,7 @@
   - C++ / C#
   - HTML / CSS / JS (a bit)
   - LuaScript
-    - ![My Roblox group](https://www.roblox.com/groups/15651764/ArtGames-CO#!/about) 
+    - [My Roblox group](https://www.roblox.com/groups/15651764/ArtGames-CO#!/about) 
   - Python
 - I can code with:
   - Unity
@@ -18,8 +18,8 @@
 
  
 ## 2️⃣ Contact
-- ![VKontakte (@artndev)](https://vk.com/artndev)
-- ![Telegram (@artndev)](https://t.me/artndev)
+- [VKontakte (@artndev)](https://vk.com/artndev)
+- [Telegram (@artndev)](https://t.me/artndev)
 
 ## 3️⃣ Stats
 <img src="https://github-readme-stats.vercel.app/api?username=artndev&show_icons=true&theme=github_dark" alt="Profile stats" />
