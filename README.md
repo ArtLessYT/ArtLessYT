@@ -24,7 +24,7 @@ Hello there! I'm a hobbyist developer so I want to introduce me :)
 - [Telegram (@artndev)](https://t.me/artndev)
 
 ## 4️⃣ Stats
-![](https://github-readme-stats.vercel.app/api?username=artndev&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=artndev&show_icons=true&theme=github_dark)
 
      
        
