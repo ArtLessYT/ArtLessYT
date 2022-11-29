@@ -1,5 +1,5 @@
 
-![Header](https://i.postimg.cc/y6h2Cc51/header.png)
+![Header](https://i.postimg.cc/N01ZGXMk/header.png)
 
 ## 1️⃣ Introducion
 👋 Hello there! I'm a hobbyist developer. I love coding and solving different tasks on ACMP.RU, CODEWARS.COM. I have already made several Telegram bots and the small site portfolio.
