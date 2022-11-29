@@ -2,12 +2,12 @@
 ![Header](https://i.postimg.cc/2jc2PPpT/header.png)
 
 ## 1️⃣ Introducion
-👋 Hello there! I'm a hobbyist developer so I want to introduce me :)
+👋 Hello there! I'm a hobbyist developer and student. So now I want to introduce me :)
 - I know programming languages such as:
   - C++ / C#
   - HTML / CSS / JS (a bit)
   - LuaScript
-    - [My Roblox group](https://www.roblox.com/groups/15651764/ArtGames-CO#!/about) 
+    - [My Roblox group](https://www.roblox.com/groups/15651764/ArtGames-CO#!/about)
   - Python
 - I can code with:
   - Unity
