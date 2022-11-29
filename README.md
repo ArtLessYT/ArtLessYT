@@ -6,7 +6,7 @@ Hello there! I'm a hobbyist developer so I want to introduce me :)
 - I know programming languages such as:
 <br>
   ![](https://img.shields.io/badge/-C++-343434?style=for-the-badge&logo=cplusplus) 
-  ![](https://img.shields.io/badge/-C++-343434?style=for-the-badge&logo=csharp)
+  ![](https://img.shields.io/badge/-C++-343434?style=for-the-badge&logo=https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png)
 <br>
 ![](https://img.shields.io/badge/-C++-343434?style=for-the-badge&logo=html5)
   - HTML / CSS / JS (a bit)
