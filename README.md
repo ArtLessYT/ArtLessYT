@@ -17,8 +17,8 @@
 
  
 ## 2️⃣ Contact
-- [VKontakte](https://vk.com/artndev)
-- [Telegram](https://t.me/artndev)
+- <b>VKontakte:</b> [@artndev](https://vk.com/artndev)
+- <b>Telegram:</b> [@artndev](https://t.me/artndev)
 - [ACMP.RU profile](https://acmp.ru/index.asp?main=user&id=403836)
 - [CODEWARS.COM profile](https://www.codewars.com/users/artndev)
 
