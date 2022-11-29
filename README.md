@@ -14,6 +14,10 @@ Hello there! I'm a hobbyist developer so I want to introduce me :)
   - Visual Studio / Visual Studio Code
   - Sublime Text
   - PyCharm
+- My hobbies:
+  - I love studying and reading English books
+  - I enjoy making buildings with Lego
+  - I like do boxing and programming
      
        
 
