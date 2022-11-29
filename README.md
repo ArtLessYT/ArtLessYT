@@ -22,6 +22,7 @@ Hello there! I'm a hobbyist developer so I want to introduce me :)
  
 ## 3️⃣ Contact
 - [VKontakte (@artndev)](https://vk.com/artndev)
+- [Telegram (@artndev)](https://t.me/artndev)
 
      
        
