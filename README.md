@@ -16,9 +16,8 @@ Hello there! I'm a hobbyist developer so I want to introduce me :)
   - PyCharm
 
 ## 2️⃣ Hobbies
-- I enjoy:
-  - Sudying and reading English books
-  - Making buildings with Lego
+- I love studying and reading English books
+- I enjoy making buildings with Lego
  
 ## 3️⃣ Contact
 - [VKontakte (@artndev)](https://vk.com/artndev)
