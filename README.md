@@ -1,10 +1,6 @@
 
 ![](https://i.postimg.cc/2jc2PPpT/header.png)
-<!-- Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=ArtLessYT&style=flat)
 
-
-<!-- Intro  -->
 ## Introducion
 Hello there! I'm a hobbyist developer so I want to introduce me :)
 - I know programming languages such as:
