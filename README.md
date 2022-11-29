@@ -4,11 +4,7 @@
 ## 1️⃣ Introducion
 Hello there! I'm a hobbyist developer so I want to introduce me :)
 - I know programming languages such as:
-![C++](https://img.shields.io/badge/-C++-343434?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/-Csharp-343434?style=for-the-badge&logo=csharp)
-![HTML](https://img.shields.io/badge/-HTML5-343434?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-343434?style=for-the-badge&logo=css3)
-![Python](https://img.shields.io/badge/-CSS3-343434?style=for-the-badge&logo=python)
+  - C++ / C#
   - HTML / CSS / JS (a bit)
   - LuaScript
   - Python
