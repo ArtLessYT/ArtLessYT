@@ -5,10 +5,9 @@
 
 
 <!-- Intro  -->
-<h2 align="left">
-        Introducion
-</h2>
-Hello there! I'm a hobbiest devloper. My name is Artem.
+# Introducion
+Hello there! I'm a hobbiest developer. My name is Artem.
+
 
 <p align="center">
         <!-- Organisation  -->
