@@ -6,13 +6,13 @@
 
 <!-- Intro  -->
 ## Introducion
-Hello there! I'm a hobbyist developer so I want to introduce me:
-- I know programming languages such as
+Hello there! I'm a hobbyist developer so I want to introduce me :)
+- I know programming languages such as:
   - C++ / C#
   - HTML / CSS / JS (a bit)
   - LuaScript
   - Python
-- I can code with
+- I can code with:
   - Unity
   - Roblox Studio
   - Visual Studio / Visual Studio Code
