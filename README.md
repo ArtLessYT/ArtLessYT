@@ -3,18 +3,6 @@
 
 ## 1️⃣ Introducion
 👋 Hello there! I'm a hobbyist developer. I love coding and solving different tasks on ACMP.RU, CODEWARS.COM. I have already made several Telegram bots and the small site portfolio.
-- I know programming languages such as:
-  - C++ / C#
-  - HTML / CSS / JS (a bit)
-  - LuaScript
-  - Python
-- I can code with:
-  - Unity
-  - Roblox Studio
-  - VS / VS Code
-  - Sublime Text 3
-  - PyCharm
-
  
 ## 2️⃣ Contact
 - <b>VKontakte:</b> [@artndev](https://vk.com/artndev)
