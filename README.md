@@ -4,9 +4,9 @@
 ## 🏆 Github Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=artndev&theme=github_dark)
 
-<hr>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artndev&theme=github_dark)
+## 📊 Statistics
+![activity](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artndev&theme=github_dark)
      
        
 
