@@ -10,13 +10,13 @@
 
 
 <details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=lauragift21&show_icons=true" />
+  <summary><b>Top Languages</b></summary>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artndev&theme=github_dark" />
 </details>
 <details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>Profile Stats</b></summary>
   <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lauragift21&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=artndev&theme=github_dark" /></a>
   <br/>
 </details>
      
