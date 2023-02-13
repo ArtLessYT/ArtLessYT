@@ -5,7 +5,7 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=artndev)
 
 <hr>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artndev&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=artndev&theme=github_dark)
 
      
        
