@@ -10,13 +10,13 @@
 
 
 <details>
-  <summary><b>• Top Languages</b></summary>
+  <summary><b>Top Languages</b></summary>
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=artndev&theme=github_dark" />
   <br/>
 </details>
 <details>
-  <summary><b>• Profile Stats</b></summary>
+  <summary><b>Profile Stats</b></summary>
   <br/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=artndev&theme=github_dark" /></a>
   <br/>
