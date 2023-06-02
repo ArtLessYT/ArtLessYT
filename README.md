@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ## Introduction
 Hello there! I'm 14y.o. self-taught Front-End developer from a small town. I want to find opportunities to show my talent and force in programming. Currently, some of popular and useful technologies are being learnt by me. I literally want to full my brain with different knowledge as it will have given me plenty of skills to improve my intellection. I'm sure of myself and it's the most important thing.
 
