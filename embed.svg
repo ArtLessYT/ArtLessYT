@@ -51,7 +51,7 @@
                 </span>
                 <div class = "blur">
                     <img
-                        src="./luke.gif"
+                        src="./luke.gif?raw=true"
                         class = "banner"
                     />
                 </div>
