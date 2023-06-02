@@ -1,10 +1,10 @@
-![](./luke2.gif)
+![Header](./github-header-image.png)
 
 ## Introduction
 Hello there! I'm 14y.o. self-taught Front-End developer from a small town. I want to find opportunities to show my talent and force in programming. Currently, some of popular and useful technologies are being learnt by me. I literally want to full my brain with different knowledge as it will have given me plenty of skills to improve my intellection. I'm sure of myself and it's the most important thing.
 
 ## Stack
-![](https://img.shields.io/badge/-JavaScript-orange?style=for-the-badge&logo=JavaScript&logoColor=white&logoWidth=20)
-![](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=CPlusPlus&logoColor=white&logoWidth=20)
-![](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white&logoWidth=20)
-![](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white&logoWidth=20)
+![JavaScript](https://img.shields.io/badge/-JavaScript-orange?style=for-the-badge&logo=JavaScript&logoColor=white&logoWidth=20)
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=CPlusPlus&logoColor=white&logoWidth=20)
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white&logoWidth=20)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white&logoWidth=20)
