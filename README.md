@@ -1,9 +1,9 @@
-<svg fill="none" width="100%" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="10rem">
+<svg fill="none" viewBox="0 0 700 400" width="700" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 .container {
-                    height: 10rem;
+                    height: 400px;
                     width: 100%;
                     user-select: none;
                     display: flex;
